@@ -6,6 +6,7 @@
 
 Symptom of the failure:
 ```
+C:\Users\Cameron\Documents\Othered\markdown-parse>java MarkdownParse test-file2.md
 Error:
 Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 12
         at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4601)
@@ -35,6 +36,7 @@ if(nextCloseBracket + 1 == openParen) {
 
 Symptom of the failure:
 ```
+C:\Users\Cameron\Documents\Othered\markdown-parse>java MarkdownParse test-file3.md
 [parenthesis]
 ```
 
@@ -56,6 +58,7 @@ the closing bracket.
 
 Symptom of the failure:
 ```
+C:\Users\Cameron\Documents\Othered\markdown-parse>java MarkdownParse test-file1.md
 ```
 No output would print while the program infinitely stalls
 
