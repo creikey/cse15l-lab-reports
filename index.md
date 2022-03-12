@@ -8,6 +8,8 @@ Hello, world!
 
 [Week 8 lab writeup](/lab-report-4-week-8.md)
 
+[Week 10 lab writeup](/lab-report-5-week-10.md)
+
 [Check out this other file](/otherfile.md)
 
 [Cool fractal I made](/fractal.html)
